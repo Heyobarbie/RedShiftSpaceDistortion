@@ -1,2 +1,2 @@
 # RedShiftSpaceDistortion
-My bachelor project about red shift space distortions.
+My bachelor project about redshift space distortions.
